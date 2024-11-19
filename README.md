@@ -1,7 +1,7 @@
 c-builder-pattern
 =================
 The best example is from libcurl:
-```
+```c
 int main(void)
 {
   CURL *curl = curl_easy_init();
